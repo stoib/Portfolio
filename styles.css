@@ -1,0 +1,52 @@
+:root{
+    --poppy: #DA2C38;
+    --darkSpringGreen: #226F54;
+    --pistachio: #87C38F;
+    --lemonChiffon: #F4F0BB;
+    --bistre: #43291F;
+    }
+    
+    /* to call colour variable: var(--poppy);*/
+    
+    body {
+        background-color: var(--lemonChiffon);
+        color: var(--bistre);
+        font-family: 'Concert One', sans-serif;
+    }
+    .nav-colour {
+        background-color: var(--darkSpringGreen);
+    }
+    
+    .mainText {
+        background-color: var(--pistachio);
+    }
+    
+    .nav-item {
+        color: var(--lemonChiffon);
+    }
+    
+    .container {
+        background-color: var(--pistachio);
+        font-size: 20px;
+    }
+    
+    .card {
+        background-color: var(--lemonChiffon);
+        font-size: 10px;
+      }
+    
+    .col-12 {
+      background-color: var(--lemonChiffon);
+      font-size: 15px;
+    }
+    
+    .footer {
+      background-color: var(--darkSpringGreen);  
+      font-size: 12px;
+      color: white;
+    }
+
+    .card-body {
+    background-color: var(--lemonChiffon);
+    color: var(--bistre);
+}

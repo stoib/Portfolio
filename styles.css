@@ -38,6 +38,9 @@
     .col-12 {
       background-color: var(--lemonChiffon);
       font-size: 15px;
+      width: 35%;
+      height: 40%;
+      margin-left: 1em;
     }
     
     .footer {

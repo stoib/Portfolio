@@ -53,3 +53,16 @@
     background-color: var(--lemonChiffon);
     color: var(--bistre);
 }
+    .skillscard{
+        width: 25%;
+        height: auto;
+    }
+    .container img{
+        width: 3em;
+        margin: 0.5em;
+    }
+    footer{
+        margin-left: 50%;
+    }
+
+

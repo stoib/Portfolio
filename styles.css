@@ -64,6 +64,9 @@
     .col-sm image{
         width: 5px;
     }
+    .col-sm{
+        max-width: 5rem;
+    }
     .CopyRight{
         text-align: center;
     }
@@ -80,6 +83,14 @@
     .logo img{
         max-height: 15rem;
         max-width: 15rem;
+    }
+    .skills{
+        margin-top: 10px;
+        
+    }
+    .skills img{
+        max-width: 3rem;
+        max-height: 3rem;
     }
 
 

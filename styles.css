@@ -64,8 +64,22 @@
     .col-sm image{
         width: 5px;
     }
-    footer{
-        margin-left: 50%;
+    .CopyRight{
+        text-align: center;
+    }
+    .NoWrap{
+        white-space: nowrap;
+    }
+    .contact-me{
+        max-height: 200px;
+        min-height: 130px;
+    }
+    .contact-info{
+        height: 130px;
+    }
+    .logo img{
+        max-height: 15rem;
+        max-width: 15rem;
     }
 
 

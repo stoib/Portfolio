@@ -109,4 +109,12 @@
         margin-right: 75%;
         white-space: nowrap;
     }
+    .subPara{
+        font-size: small; 
+        margin: 0;
+    }
+    .smallPara{
+        font-size: medium;
+        margin: 0;
+    }
 

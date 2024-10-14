@@ -4,12 +4,13 @@
     --pistachio: #87C38F;
     --lemonChiffon: #F4F0BB;
     --bistre: #43291F;
+    --redish: #6F223D;
     }
     
     /* to call colour variable: var(--poppy);*/
     
     body {
-        background-color: var(--lemonChiffon);
+        background-color: var(--redish);
         color: var(--bistre);
         font-family: 'Concert One', sans-serif;
     }
@@ -92,5 +93,20 @@
         max-width: 3rem;
         max-height: 3rem;
     }
-
+    .Central{
+        text-align: center;
+        margin-top: 2rem;
+        padding-top: 1rem;
+    }
+    .Central img{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+    }
+    .LeftSide{
+        margin-left: 15%;
+        margin-right: 75%;
+        white-space: nowrap;
+    }
 

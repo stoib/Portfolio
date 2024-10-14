@@ -34,7 +34,7 @@
     .card {
         background-color: var(--lemonChiffon);
         font-size: 10px;
-      }
+    }
     
     .col-12 {
       background-color: var(--lemonChiffon);
@@ -84,6 +84,8 @@
     .logo img{
         max-height: 15rem;
         max-width: 15rem;
+        width: 10rem;
+        height: 10rem;
     }
     .skills{
         margin-top: 10px;

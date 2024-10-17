@@ -8,7 +8,6 @@
     }
     
     /* to call colour variable: var(--poppy);*/
-    
     body {
         background-color: var(--redish);
         color: var(--bistre);

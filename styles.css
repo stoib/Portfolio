@@ -9,13 +9,13 @@
     
     /* to call colour variable: var(--poppy);*/
     body {
-        background-color: var(--pistachio);
+        background-color: var(--lemonChiffon);
         color: var(--bistre);
         font-family: 'Concert One', sans-serif;
     }
     .nav-colour {
         background-color: var(--darkSpringGreen);
-    }
+    }e
     
     .mainText {
         background-color: var(--pistachio);
